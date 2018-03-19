@@ -14,6 +14,7 @@
 		1855E809205FFED400F7AB12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1855E808205FFED400F7AB12 /* Assets.xcassets */; };
 		1855E80C205FFED400F7AB12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1855E80A205FFED400F7AB12 /* LaunchScreen.storyboard */; };
 		1855E80F205FFED400F7AB12 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1855E80E205FFED400F7AB12 /* main.m */; };
+		1855E8172060010C00F7AB12 /* VieeewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1855E8162060010C00F7AB12 /* VieeewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		1855E80B205FFED400F7AB12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1855E80D205FFED400F7AB12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1855E80E205FFED400F7AB12 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1855E8152060010C00F7AB12 /* VieeewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VieeewController.h; sourceTree = "<group>"; };
+		1855E8162060010C00F7AB12 /* VieeewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VieeewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 			children = (
 				1855E7FC205FFED400F7AB12 /* AppDelegate.h */,
 				1855E7FD205FFED400F7AB12 /* AppDelegate.m */,
+				1855E8152060010C00F7AB12 /* VieeewController.h */,
+				1855E8162060010C00F7AB12 /* VieeewController.m */,
 				1855E7FF205FFED400F7AB12 /* ViewController.h */,
 				1855E800205FFED400F7AB12 /* ViewController.m */,
 				1855E802205FFED400F7AB12 /* Main.storyboard */,
@@ -146,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1855E801205FFED400F7AB12 /* ViewController.m in Sources */,
+				1855E8172060010C00F7AB12 /* VieeewController.m in Sources */,
 				1855E807205FFED400F7AB12 /* GitUseExample.xcdatamodeld in Sources */,
 				1855E80F205FFED400F7AB12 /* main.m in Sources */,
 				1855E7FE205FFED400F7AB12 /* AppDelegate.m in Sources */,
